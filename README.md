@@ -1,6 +1,6 @@
 # Hasher
 
-This is a small utility to generate hashed password for PHP applications that use `password_hash()` and `password_verify()`
+This is a command-line utility to generate hashed password for PHP applications that use `password_hash()` and `password_verify()`
 
 ## Install
 
