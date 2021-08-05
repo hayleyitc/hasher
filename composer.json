@@ -1,0 +1,17 @@
+{
+    "name": "oscar/hasher",
+    "authors": [
+        {
+            "name": "oscaritc",
+            "email": "oscar.berry@itccompliance.co.uk"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hasher\\": "src/"
+        }
+    }
+}
